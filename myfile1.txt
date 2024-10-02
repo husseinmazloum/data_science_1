@@ -7,5 +7,3 @@ six
 Seven
 eight
 nine
-ten
-eleven
